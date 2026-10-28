@@ -26,7 +26,7 @@ These services see an ordinary download request (your IP address and the file as
 
 ## Updates
 
-- **Copies from GitHub** (the installer or portable download): When it starts, Hikari asks GitHub for the newest **published** release of `cuteclaudia/hikari-releases`, and offers it to you. Nothing about you, your files or your computer is sent; GitHub sees an ordinary web request (your IP address), under GitHub's privacy statement.
+- **Copies from GitHub** (the installer or portable download): When it starts, Hikari asks GitHub for the newest **published** release of `cuteclaudia/hikari-releases`, and offers it to you. It's an ordinary web request, so GitHub sees your IP address and the usual request details, under GitHub's privacy statement. Hikari adds nothing about your files or your work.
 - **Copies from the Microsoft Store**: the Store installs and updates Hikari; Hikari doesn't
   check GitHub at all. Microsoft's privacy statement covers the Store.
 
